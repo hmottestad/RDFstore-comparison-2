@@ -6,6 +6,9 @@ This dataset is a subset of DBpedia connected to a subset of Yago.
 
 I downloaded the following localized sections of DBpedia in English from [here](https://wiki.dbpedia.org/downloads-2016-10):
 
+https://databus.dbpedia.org/dbpedia/collections/latest-core
+
+
 - Article Categories
 - Category Labels
 - Disambiguations
